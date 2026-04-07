@@ -124,7 +124,7 @@ pytest -q
 
 Add your video link below before submission:
 
-- Video link: `PASTE_YOUR_UNLISTED_VIDEO_LINK_HERE`
+- Video link: `https://drive.google.com/file/d/1O9UlWiBtNZm0hSt1fBMcfF0qncutVbYg/view?usp=sharing`
 
 The video should show:
 - `docker compose up --build`
